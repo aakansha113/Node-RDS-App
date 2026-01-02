@@ -1,8 +1,8 @@
 # Node-RDS-App
 A simple node application using rds.
 
-## Project Structure
-
+##  📁 Project Structure
+```
 node-rds-app/
 │── node_modules/
 │── public/
@@ -18,7 +18,7 @@ node-rds-app/
 │── README.md
 │── package-lock.json
 │── package.json
-
+```
 ### 📥 Clone This Repository
 #### To clone this portfolio on your local system, run:
 ```
